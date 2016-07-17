@@ -1,0 +1,87 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 90,
+					"ch": 22
+				},
+				"to": {
+					"line": 90,
+					"ch": 31
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "ResizeMode",
+			"type": "string",
+			"name": "ResizeMode",
+			"group": "IMAGE"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 96,
+					"ch": 16
+				},
+				"to": {
+					"line": 96,
+					"ch": 23
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Size",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 97,
+					"ch": 17
+				},
+				"to": {
+					"line": 97,
+					"ch": 24
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Color",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 156,
+					"ch": 16
+				},
+				"to": {
+					"line": 156,
+					"ch": 24
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "AlignItems",
+			"type": "string",
+			"name": "AlignItems",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 157,
+					"ch": 20
+				},
+				"to": {
+					"line": 157,
+					"ch": 28
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "JustifyContent",
+			"type": "string",
+			"name": "JustifyContent",
+			"group": "ACTIVITY INDICATOR IOS"
+		}
+	]
+}
